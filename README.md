@@ -1,7 +1,7 @@
 # Working-Memory-Project-R
 Undergraduate project, testing if color has an effect on working memory. 
 
-This Project was assigned in an upper level psychology course. The assinment required us to design and implement a research experiment.
+This Project was assigned in an upper level psychology course. The assignment required us to design and implement a research experiment.
 My topic was to see if Color influenced Working Memory. 
 Qualtrics was used to develop the survey, qualtrics then reported the data in an Excel File.
 The participants were randomly assigned to one of 3 levels, Blue, Red, or Black. 
